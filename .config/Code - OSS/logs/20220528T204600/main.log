@@ -1,7 +1,0 @@
-[2022-05-28 20:46:00.161] [main] [info] window#load: attempt to load window (id: 1)
-[2022-05-28 20:46:00.166] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-05-28 20:46:00.200] [main] [info] ExtensionHostStarterWorker created
-[2022-05-28 20:46:01.086] [main] [info] window#load: window reported ready (id: 1)
-[2022-05-28 20:46:01.197] [main] [info] Starting extension host with pid 8443 (fork() took 7 ms).
-[2022-05-28 20:46:01.197] [main] [info] ExtensionHostStarterWorker.start() took 12 ms.
-[2022-05-28 20:46:05.795] [main] [info] Extension host with pid 8443 exited with code: 0, signal: null.
