@@ -1,0 +1,9 @@
+[2022-05-28 12:48:34.025] [sharedprocess] [info] Starting worker process with pid 27060 (type: fileWatcher, window: 1).
+[2022-05-28 12:49:37.459] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+[2022-05-28 12:49:38.084] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+[2022-05-28 12:49:39.365] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-pt-br /home/adriano/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-pt-br-1.67.3
+[2022-05-28 12:49:39.455] [sharedprocess] [info] Extracted extension to /home/adriano/.vscode-oss/extensions/.28887c56-1392-4a69-b9f7-46222a88a616: ms-ceintl.vscode-language-pack-pt-br
+[2022-05-28 12:49:39.460] [sharedprocess] [info] Renamed to /home/adriano/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-pt-br-1.67.3
+[2022-05-28 12:49:39.461] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-pt-br
+[2022-05-28 12:49:39.461] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+[2022-05-28 12:49:39.499] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
