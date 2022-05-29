@@ -11,3 +11,11 @@ sudo pacman -S --needed --noconfirm kitty rofi feh redshift playerctl pulsemixer
 yay -S --needed --noconfirm i3lock-color-git zscroll-git picom-jonaburg-git nerd-fonts-{jetbrains-mono,fira-code} \
   xcursor-breeze pipes.sh rxfetch pfetch thokr-git ipman spotify
 ```
+> /usr/share/xsessions/bspwm.desktop
+```
+[Desktop Entry]
+Name=bspwm
+Comment=Binary space partitioning window manager
+Exec=/home/adriano/.login.sh
+Type=Application
+```
