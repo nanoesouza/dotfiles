@@ -1,5 +1,5 @@
 # dotfiles
-#Dependencies
+# Dependencies
 
 sudo pacman -S --needed --noconfirm kitty rofi feh redshift playerctl pulsemixer dunst \
   flameshot polkit-gnome brightnessctl numlockx xorg-{setxkbmap,xset,xsetroot} \
